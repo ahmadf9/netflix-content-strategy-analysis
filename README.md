@@ -92,7 +92,3 @@ Performed data cleaning, merged movie and TV show datasets, conducted explorator
 
 ### Result
 The analysis found that Netflix content ratings generally improved over time with some fluctuations, while popularity increased sharply in 2024–2025. Several niche genres showed strong rating performance despite lower content volume. These insights can help support more effective content acquisition and production decisions.
-
----
-
-## 📂 Project Structure
